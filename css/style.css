@@ -1,0 +1,322 @@
+@font-face{
+    font-family: amiri;
+    src: url('../font/Amiri-Bold.ttf');
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color:#FCD703; 
+}
+#backgroundimage{
+    background:url('../images/Dubai-Sky-Pods-Feature.jpg') no-repeat center center #eee ;
+    background-size: cover;
+}
+#toptitel{
+    height: 800px;
+    background-color: rgb(162 168 180 / 41%);
+}
+.logodivcapital{
+    width: 26%;
+    float: right;
+    margin-top: 34px;
+}
+.logo{
+    font-family: amiri;
+    margin: 35px 12px 13px 14px;
+    font-size: 44px;
+    text-align: center;
+    color: #FCD703;
+}
+#linksdiv{
+    width: 47.5%;
+    float: right;
+    padding-top: 52px;
+    text-align: center; 
+}
+.link{
+    font-family: amiri;
+    color: white;
+    padding: 11px;
+    font-size: 29px;
+    font-weight: bold;
+}
+.link:hover{
+    text-decoration:underline;
+    color:#FCD703; 
+}
+.alldivcont{
+    
+}
+#icondivfull{
+    width: 26%;
+    float: left;
+    color: white;
+    padding-top: 59px;
+    font-size: 29px;
+    text-align: center;
+}
+.icondiv{
+    padding-right: 41px;
+}
+section{
+    background-color: #dfdfdf;
+    overflow: hidden;
+}
+#textincenter {
+    padding: 441px;
+    font-size: 37px;
+    text-align: center;
+}
+.head1{
+    font-family: amiri;
+    color:#FCD703;
+    background-color:#3c371f56;
+}
+#contantdiv{
+    padding-top: 20px;
+    background-color: #dfdfdf;
+    overflow: hidden;
+}
+#headone{
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    font-family: amiri;
+    color:#1a4f7e;
+}
+#contantdiv .headtwo{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 15px;
+    font-family: amiri;
+    color:#1a4f7e;
+}
+#contantdiv .div{
+    float: right;
+    border: 4px solid #1a4f7e;
+    width: 29.3%;
+    height: 300px;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 55px;
+    background-color: #dfdfdf;
+    padding-right: 45px;
+    font-family: amiri;
+    color: #1a4f7e;
+    padding-top: 15px;
+}
+.iconalo{
+    text-align: center;
+}
+#contantdiv .div:hover{
+    float: right;
+    border: 4px solid #e7a007;
+    background-color: #1a4f7e;
+    color: #dfdfdf;
+    cursor: pointer;
+}
+#contantdiv .icon{
+    color: #1a4f7e;
+    font-size: 40px;
+    padding: 24px;
+    background-color: #eee;
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    align-items: center;
+}
+#contantdiv .icon:hover{
+    color:#e7a007 ;
+    background-color: #eee;
+    border: 2px solid #e7a007;
+}
+#us{
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    font-family: amiri;
+    color: #1a4f7e;
+    padding-top: 36px;
+}
+.line{
+    width: 12%;
+    margin: auto;
+    font-size: 12px;
+    border: 1px double #1a4f7e;
+    margin-bottom: 20px;
+}
+.weare{
+    width: 100%;
+    float: left;
+}
+.werae1{
+    display: inline;
+}
+.insimage{
+    width: 30%;
+    height: 30%;
+    margin: 0px 27px;
+    padding-top: 19px;
+}
+.weare2{
+    float: left;
+    width: 64%;
+}
+.contentus{
+    font-weight: bolder;
+    font-size: 25px;
+    font-family: amiri;
+    color: #1a4f7e;
+    padding-top: 10px;
+    padding-bottom: 22px;
+}
+.contentusone{
+    font-size: 20px;
+    font-family: amiri;
+    color: #1a4f7e;
+}
+#contentus1{
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    font-family: amiri;
+    color: #1a4f7e;
+    padding-top: 170px;
+}
+#contantdiv2{
+    display: flex;
+    flex-flow: row wrap;
+    
+}
+.dives1{
+    border: 1px solid black;
+}
+.contener{
+    float: right;
+    margin-bottom: 20px;
+    width: 100%;
+}
+.col{
+    width: 48%;
+    float: right;
+    margin: 9px;
+}
+.box {
+    border: 4px solid #1a4f7e;
+    height: 250px;
+    padding: 9px 36px;
+    font-family: amiri;
+    color: #1a4f7e;
+    background-color: #dfdfdf;
+}
+.box:hover{
+    border: 4px solid #e7a007;
+    color: #eee;
+    background-color: #1a4f7e;
+}
+.box .icon {
+    font-size: 40px;
+    padding: 24px;
+    background-color: #eee;
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    margin-bottom: 5px;
+    color: #1a4f7e;
+}
+.box .icon:hover{
+    color:#e7a007 ;
+    background-color: #eee;
+    border: 2px solid #e7a007;
+}
+.Notes{
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    font-family: amiri;
+    color:#1a4f7e;
+}
+.icons{
+    font-size: 28px;
+    color: #1a4f7e;
+}
+.icons1{
+    padding: 10px 50%;
+    font-size: 28px;
+    color: #1a4f7e;
+}
+.pnotes {
+    height: 120px;
+    padding: 20px;
+    font-family: amiri;
+    color: #1a4f7e;
+    background-color: #dfdfdf;
+    text-align: justify;
+}
+.star{
+    padding: 10px;
+    font-size: 28px;
+    color: red;
+    align-items: center;
+    margin: 10px 40px;
+}
+#contacthead{
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    font-family: amiri;
+    color:#336897;
+}
+.cn{
+    text-align: center;
+}
+.contact {
+    float: right;
+    width: 100%;
+    margin-bottom: 75px;
+    text-align: -webkit-center;
+}
+.contactway{
+    background-color: #eee;
+    width: 50%;
+}
+.contactwayone{
+    width: 50%;
+}
+.contactway2{
+    color: #eee;
+    width: 50%;
+    height: 300px;
+    background-color:#1a4f7e;
+}
+.input {
+    width: 50%;
+    height: 43px;
+    background-color: #dfdfdf;
+    border: 1px solid #0b253c;
+    display: block;
+    margin: 18px 0px 0px 0px;
+    text-align: center;
+}
+.inputone{
+    width: 16%;
+    border: 3px solid #0b253c;
+    color: #757575;
+}
+.map{
+    text-align: center;
+}
+.fotter{
+    padding: 20px;
+    color: #1a4f7e;
+    background-color: #eee;
+    text-align: center;
+}

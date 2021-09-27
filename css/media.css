@@ -1,0 +1,44 @@
+
+@media (max-width: 575.98px) {
+    #media{
+        display: none;
+    }
+    #contantdiv{
+        padding-top: 20px;
+        background-color: #56a6ec;
+        overflow: hidden;
+    }
+}
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    #media{
+        display: none;
+    }
+    #contantdiv{
+        padding-top: 20px;
+        background-color: #6388a8;
+        overflow: hidden;
+    }
+}
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    #media{
+        display: none;
+    }
+    #contantdiv{
+        padding-top: 20px;
+        background-color: #bcd2e4;
+        overflow: hidden;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    #media{
+        display: none;
+    }
+    #contantdiv{
+        padding-top: 20px;
+        background-color: #c0cbd4;
+        overflow: hidden;
+    }
+}
+@media (min-width: 1200px) {
+
+}
