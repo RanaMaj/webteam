@@ -1,6 +1,6 @@
 # Global Web Team 
 #### My First Project 
-😄
+:smile:
 ***What I use :*** 
 - HTML 
 - CSS
