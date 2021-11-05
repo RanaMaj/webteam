@@ -1,11 +1,11 @@
 <div id="top"></div>
 
-# Global Web Team 
+# Global Web Team :smile:
 
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-:smile:
+
 ***What I use :thinking: :*** 
 - HTML 
 - CSS
